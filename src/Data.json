@@ -1,0 +1,80 @@
+{
+  "name": "Nagłówek drzewa",
+  "type": "wielowierszowy",
+  "content": [
+    {
+      "name": "Pododdział 1",
+      "content": [
+        {
+          "name": "Zespół 1",
+          "type": "HR"
+        },
+        {
+          "name": "Zespół 2",
+          "type": "Marketing"
+        },
+        {
+          "name": "Zespół 3",
+          "type": "Analitycy",
+          "content": [
+            {
+              "name": "Podzespół 3.1",
+              "type": "Kalendarz"
+            },
+            {
+              "name": "Podzespół 3.2",
+              "type": "Kokpit"
+            },
+            {
+              "name": "Podzespół 3.3",
+              "type": "Widok"
+            },
+            {
+              "name": "Podzespół 3.4",
+              "type": "Różności"
+            },
+            {
+              "name": "Podzespół 3.5",
+              "type": "Szukaj"
+            }
+          ]
+        },
+        {
+          "name": "Zespół 4",
+          "type": "Programiści",
+          "content": [
+            {
+              "name": "Podzespół 4.1",
+              "type": "Front-end"
+            },
+            {
+              "name": "Podzespół 4.2",
+              "type": "Middle-front-end"
+            },
+            {
+              "name": "Podzespół 4.3",
+              "type": "Middle-end"
+            },
+            {
+              "name": "Podzespół 4.4",
+              "type": "Middle-back-end"
+            },
+            {
+              "name": "Podzespół 4.5",
+              "type": "Back-end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pododdział 2"
+    },
+    {
+      "name": "Pododdział 3"
+    },
+    {
+      "name": "Niezrzeszeni"
+    }
+  ]
+}
