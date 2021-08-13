@@ -1,80 +1,225 @@
 {
-  "name": "Nagłówek drzewa",
-  "type": "wielowierszowy",
+  "id": "1",
+  "title": "Nagłówek drzewa",
+  "subtitle": "wielowierszowy",
+  "type": "checkbox",
   "content": [
     {
-      "name": "Pododdział 1",
+      "id": "2",
+      "title": "Pododdział 1",
+      "type": "radio",
       "content": [
         {
-          "name": "Zespół 1",
-          "type": "HR"
+          "title": "Zespół 1",
+          "subtitle": "HR"
         },
         {
-          "name": "Zespół 2",
-          "type": "Marketing"
+          "title": "Zespół 2",
+          "subtitle": "Marketing"
         },
         {
-          "name": "Zespół 3",
-          "type": "Analitycy",
+          "id": "3",
+          "title": "Zespół 3",
+          "subtitle": "Analitycy",
+          "type": "checkbox",
           "content": [
             {
-              "name": "Podzespół 3.1",
-              "type": "Kalendarz"
+              "title": "Podzespół 3.1",
+              "subtitle": "Kalendarz"
             },
             {
-              "name": "Podzespół 3.2",
-              "type": "Kokpit"
+              "title": "Podzespół 3.2",
+              "subtitle": "Kokpit"
             },
             {
-              "name": "Podzespół 3.3",
-              "type": "Widok"
+              "title": "Podzespół 3.3",
+              "subtitle": "Widok"
             },
             {
-              "name": "Podzespół 3.4",
-              "type": "Różności"
+              "title": "Podzespół 3.4",
+              "subtitle": "Różności"
             },
             {
-              "name": "Podzespół 3.5",
-              "type": "Szukaj"
+              "title": "Podzespół 3.5",
+              "subtitle": "Szukaj"
             }
           ]
         },
         {
-          "name": "Zespół 4",
-          "type": "Programiści",
+          "id": "4",
+          "title": "Zespół 4",
+          "subtitle": "Programiści",
+          "type": "checkbox",
           "content": [
             {
-              "name": "Podzespół 4.1",
-              "type": "Front-end"
+              "title": "Podzespół 4.1",
+              "subtitle": "Front-end"
             },
             {
-              "name": "Podzespół 4.2",
-              "type": "Middle-front-end"
+              "title": "Podzespół 4.2",
+              "subtitle": "Middle-front-end"
             },
             {
-              "name": "Podzespół 4.3",
-              "type": "Middle-end"
+              "title": "Podzespół 4.3",
+              "subtitle": "Middle-end"
             },
             {
-              "name": "Podzespół 4.4",
-              "type": "Middle-back-end"
+              "title": "Podzespół 4.4",
+              "subtitle": "Middle-back-end"
             },
             {
-              "name": "Podzespół 4.5",
-              "type": "Back-end"
+              "title": "Podzespół 4.5",
+              "subtitle": "Back-end"
             }
           ]
         }
       ]
     },
     {
-      "name": "Pododdział 2"
+      "id": "5",
+      "title": "Pododdział 2",
+      "type": "radio",
+      "content": [
+        {
+          "title": "Zespół 1",
+          "subtitle": "HR"
+        },
+        {
+          "title": "Zespół 2",
+          "subtitle": "Marketing"
+        },
+        {
+          "id": "6",
+          "title": "Zespół 3",
+          "subtitle": "Analitycy",
+          "type": "checkbox",
+          "content": [
+            {
+              "title": "Podzespół 3.1",
+              "subtitle": "Kalendarz"
+            },
+            {
+              "title": "Podzespół 3.2",
+              "subtitle": "Kokpit"
+            },
+            {
+              "title": "Podzespół 3.3",
+              "subtitle": "Widok"
+            },
+            {
+              "title": "Podzespół 3.4",
+              "subtitle": "Różności"
+            },
+            {
+              "title": "Podzespół 3.5",
+              "subtitle": "Szukaj"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Zespół 4",
+          "subtitle": "Programiści",
+          "type": "checkbox",
+          "content": [
+            {
+              "title": "Podzespół 4.1",
+              "subtitle": "Front-end"
+            },
+            {
+              "title": "Podzespół 4.2",
+              "subtitle": "Middle-front-end"
+            },
+            {
+              "title": "Podzespół 4.3",
+              "subtitle": "Middle-end"
+            },
+            {
+              "title": "Podzespół 4.4",
+              "subtitle": "Middle-back-end"
+            },
+            {
+              "title": "Podzespół 4.5",
+              "subtitle": "Back-end"
+            }
+          ]
+        }
+      ]
+
     },
     {
-      "name": "Pododdział 3"
+      "id": "8",
+      "title": "Pododdział 3",
+      "type": "radio",
+      "content": [
+        {
+          "title": "Zespół 1",
+          "subtitle": "HR"
+        },
+        {
+          "title": "Zespół 2",
+          "subtitle": "Marketing"
+        },
+        {
+          "id": "9",
+          "title": "Zespół 3",
+          "subtitle": "Analitycy",
+          "type": "checkbox",
+          "content": [
+            {
+              "title": "Podzespół 3.1",
+              "subtitle": "Kalendarz"
+            },
+            {
+              "title": "Podzespół 3.2",
+              "subtitle": "Kokpit"
+            },
+            {
+              "title": "Podzespół 3.3",
+              "subtitle": "Widok"
+            },
+            {
+              "title": "Podzespół 3.4",
+              "subtitle": "Różności"
+            },
+            {
+              "title": "Podzespół 3.5",
+              "subtitle": "Szukaj"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "title": "Zespół 4",
+          "subtitle": "Programiści",
+          "type": "checkbox",
+          "content": [
+            {
+              "title": "Podzespół 4.1",
+              "subtitle": "Front-end"
+            },
+            {
+              "title": "Podzespół 4.2",
+              "subtitle": "Middle-front-end"
+            },
+            {
+              "title": "Podzespół 4.3",
+              "subtitle": "Middle-end"
+            },
+            {
+              "title": "Podzespół 4.4",
+              "subtitle": "Middle-back-end"
+            },
+            {
+              "title": "Podzespół 4.5",
+              "subtitle": "Back-end"
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Niezrzeszeni"
+      "title": "Niezrzeszeni"
     }
   ]
 }
